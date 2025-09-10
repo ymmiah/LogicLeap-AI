@@ -1,0 +1,5 @@
+{
+  "name": "LogicLeap AI",
+  "description": "Your personal AI helper for generating, explaining, translating, and debugging command-line scripts and automation code for PowerShell, Bash, CMD, VBA, and more.",
+  "requestFramePermissions": []
+}
