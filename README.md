@@ -1,6 +1,6 @@
 # LogicLeap AI
 
-**Last Updated:** June 2024
+**Last Updated:** 10 September 2025
 
 ## 1. Introduction
 
